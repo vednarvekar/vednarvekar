@@ -109,8 +109,8 @@
 <br></br>
 
 
-## 📊 GitHub Stats 
-<!-- <p align="center"> -->
+<!-- ## 📊 GitHub Stats 
+<p align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
@@ -118,9 +118,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&layout=compact&theme=radical&hide_border=true" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&theme=dark&hide_border=false" /><br/>  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&theme=dark&hide_border=false" /><br/>  
    <span> <img src="https://nirzak-streak-stats.vercel.app/?user=vednarvekar&theme=dark&hide_border=false" /> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&theme=dark&hide_border=false&layout=compact" /></span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&theme=dark&hide_border=false&layout=compact" /></span> -->
 <!-- </div> -->
 
 <br></br>
