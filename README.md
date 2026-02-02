@@ -123,7 +123,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&theme=dark&hide_border=false&layout=compact" /></span> -->
 <!-- </div> -->
 
-<br></br>
+<!-- <br></br> -->
 
 <!-- <p align="center">
 ## 🔥 GitHub Streak
