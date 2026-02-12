@@ -156,7 +156,9 @@
 ---
 
 ## 🌐 Connect With Me
+   <a href="https://vednarvekar.com/" target="_blank"> <strong> Portfolio Website <strong/> </a>
 <p align="left">
+  <!-- https://vednarvekar.com/-->
   <a href="https://linkedin.com/in/ved-narvekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -177,7 +179,6 @@
 <img src="https://komarev.com/ghpvc/?username=vednarvekar001&label=Profile%20Views&color=8a2be2&style=flat" />
 </div>
 </div>
-vednarvekar.com
 
 
 
