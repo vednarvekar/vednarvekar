@@ -1,184 +1,88 @@
-<!--ved narvekar github -->
-<!--Ved Narvekar github -->
-<!--Ved Narvekar -->
 <div align="center">
 
-<h1>👋 Hi, I'm Ved Narvekar</h1>
-<!-- <h3>Code. Create. Conquer.</h3> -->
+# Ved Narvekar
 
-<br></br>
+**Backend Engineer | DevOps | AI Engineer**
 
-<div align="center">
-  <blockquote>
-    <i>“The best way to predict the future is to invent it.”</i></br>
-    — <b>Alan Kay</b>
-  </blockquote>
-</div>
+[![Portfolio](https://img.shields.io/badge/vednarvekar.com-000000?style=for-the-badge&logoColor=white)](https://vednarvekar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ved-narvekar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vednarvekar001)
 
 </div>
 
-<br></br>
+
 <!--
-## 🚀 About Me
-- 🎓 Engineering student passionate about **AI, ML & Backend Systems**
-- 🧠 Exploring **Machine Learning, Deep Learning & NLP**
-- ⚙️ I like building things that *actually run*, not just demos
-- 🔥 Obsessed with growth, consistency, and leveling up
+## About
+
+Second-year B.E. student in Artificial Intelligence and Machine Learning at Universal College of Engineering, Mumbai (expected 2028). Backend engineering intern at SR India. Currently building `resolv`, an AI-powered GitHub issue resolver CLI, and shipping backend/AI infrastructure projects in public. Targeting backend and AI/LLM engineering roles.
 -->
-<br></br>
 
-<h2>🛠️ Technology Stack</h2>
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
+## Tech Stack
 
-<h3>🤖 AI & Machine Learning</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://img.shields.io/badge/C++-0f0f17?style=flat&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/JavaScript-0f0f17?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0f0f17?style=flat&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Python-0f0f17?style=flat&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Go-0f0f17?style=flat&logo=go&logoColor=00ADD8" />
 </p>
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Next.js-0f0f17?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-0f0f17?style=flat&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-0f0f17?style=flat&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/PostgreSQL-0f0f17?style=flat&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Redis-0f0f17?style=flat&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/Docker-0f0f17?style=flat&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/AWS-0f0f17?style=flat&logo=amazonaws&logoColor=FF9900" />
+  
 </p>
+
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-0f0f17?style=flat&logo=googlegemini&logoColor=8E75B2" />
+<img src="https://img.shields.io/badge/Claude-0f0f17?style=flat&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/OpenAI-0f0f17?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-0f0f17?style=flat&logo=langchain&logoColor=1C3C3C" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0f0f17?style=flat&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/PyTorch-0f0f17?style=flat&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/NumPy-0f0f17?style=flat&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-0f0f17?style=flat&logo=pandas&logoColor=150458" />
 </p>
 
-</td>
-<td width="33%" valign="top">
-
-<h3>💻 Programming</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3>🌐 Web Development</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-<h3>🗄️ Database & Cloud</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
-</p>
-
-</td>
-<td valign="top">
-
-<h3>🧰 Development Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-</p>
-
-</td>
-<td valign="top">
-
-<h3>🎯 Focus Areas</h3>
-<p>
-  <img src="https://img.shields.io/badge/Full%20Stack-6A5BCD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend%20Development-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevOps-483D8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-8A2BE2?style=for-the-badge"/>
-</p>
-</td>
-</tr>
-</table>
-
-<br></br>
 
 
-<!-- ## 📊 GitHub Stats 
-<p align="center"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&show_icons=true&theme=radical&hide_border=true" />
-</p>
+## Currently Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&layout=compact&theme=radical&hide_border=true" />
-</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&theme=dark&hide_border=false" /><br/>  
-   <span> <img src="https://nirzak-streak-stats.vercel.app/?user=vednarvekar&theme=dark&hide_border=false" /> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&theme=dark&hide_border=false&layout=compact" /></span> -->
-<!-- </div> -->
+### `resolv`
+AI-powered CLI agent that resolves GitHub issues automatically. Supports 7 LLM providers (Anthropic, OpenAI, Gemini, NVIDIA NIM, Grok, OpenRouter, Ollama) with RAG-based codebase understanding, web search, and style-matching commit generation.
 
-<!-- <br></br> -->
+`TypeScript` `Node.js` `RAG` `LLM APIs`
 
-<!-- <p align="center">
-## 🔥 GitHub Streak
-  <img src="https://streak-stats.demolab.com?user=vednarvekar&theme=radical&hide_border=true" />
-</p> -->
+### `API Gateway`
+High-performance API gateway built with Fastify and undici — JWT/RBAC auth, Redis-backed rate limiting, circuit breaking via opossum, and Prometheus metrics. Benchmarked at ~6,000 RPS.
 
+`TypeScript` `Fastify` `Redis` `Prometheus`
 
-<!--  ## 🏆 GitHub Trophies <p align="center"> -->
- <!-- <img src="https://github-profile-trophy.vercel.app/?username=vednarvekar&theme=radical&no-frame=true&row=1&column=7"/>  -->
-<!-- </p> -->
-
-<!-- <br></br> -->
 <!--
-## 💀 LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vednarvekar001?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-</p>
--->
-<br></br>
-<!--
-## 🧠 What I’m Focused On Right Now
-- Building **backend-first projects**
-- Applying **ML models to real problems**
-- Improving **DSA & problem-solving**
-- Becoming consistent, not flashy
--->
----
+### Pixel
+ResNet18-based image authenticity classifier for detecting AI-generated images. 88% validation accuracy.
 
-## 🌐 Connect With Me
-  <h3>🌟 <a href="https://vednarvekar.com" target="_blank"><strong>Portfolio Website </strong>(click !!)</a></h3>
-<p align="left">
-  <!-- https://vednarvekar.com/-->
-  <a href="https://linkedin.com/in/ved-narvekar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/_vedd_14" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://www.leetcode.com/vednarvekar001" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+`PyTorch` `Computer Vision`
 
 ---
+## GitHub Stats
 
 <div align="center">
 
-### ⭐ Thanks for stopping by — let’s build something real.
+![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vednarvekar&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&layout=compact&theme=radical&hide_border=true)
 
-<img src="https://komarev.com/ghpvc/?username=vednarvekar001&label=Profile%20Views&color=8a2be2&style=flat" />
 </div>
+
+<div align="center">
+-->
+
+<br></br>
+![Profile Views](https://komarev.com/ghpvc/?username=vednarvekar001&label=Profile%20Views&color=8a2be2&style=for-the-badge)
+
 </div>
-
-
-
