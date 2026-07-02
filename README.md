@@ -4,7 +4,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Ved Narvekar</h1>
-<h3>Code. Create. Conquer.</h3>
+<!-- <h3>Code. Create. Conquer.</h3> -->
 
 <br></br>
 
@@ -18,13 +18,13 @@
 </div>
 
 <br></br>
-
+<!--
 ## 🚀 About Me
 - 🎓 Engineering student passionate about **AI, ML & Backend Systems**
 - 🧠 Exploring **Machine Learning, Deep Learning & NLP**
 - ⚙️ I like building things that *actually run*, not just demos
 - 🔥 Obsessed with growth, consistency, and leveling up
-
+-->
 <br></br>
 
 <h2>🛠️ Technology Stack</h2>
@@ -139,20 +139,20 @@
 <!-- </p> -->
 
 <!-- <br></br> -->
-
+<!--
 ## 💀 LeetCode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vednarvekar001?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </p>
-
+-->
 <br></br>
-
+<!--
 ## 🧠 What I’m Focused On Right Now
 - Building **backend-first projects**
 - Applying **ML models to real problems**
 - Improving **DSA & problem-solving**
 - Becoming consistent, not flashy
-
+-->
 ---
 
 ## 🌐 Connect With Me
