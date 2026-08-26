@@ -59,9 +59,9 @@ AI-powered CLI agent that resolves GitHub issues automatically. Supports 7 LLM p
 `TypeScript` `Node.js` `RAG` `LLM APIs`
 
 ### `Ve - Personal assistant`
-A desktop assistant that executes what you ask, not just answers it. Type or speak a request and it opens the app, finds the show, runs the search — instantly..
+A desktop assistant that executes real actions and learns your habits on-device, using federated learning to improve without your data ever leaving your machine.
 
-`TypeScript` `Fastify` `Redis` `Prometheus`
+`Electron` `Playwright` `SQLite` `Prometheus`
 
 <!--
 ### Pixel
