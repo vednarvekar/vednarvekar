@@ -58,8 +58,8 @@ AI-powered CLI agent that resolves GitHub issues automatically. Supports 7 LLM p
 
 `TypeScript` `Node.js` `RAG` `LLM APIs`
 
-### `API Gateway`
-High-performance API gateway built with Fastify and undici — JWT/RBAC auth, Redis-backed rate limiting, circuit breaking via opossum, and Prometheus metrics. Benchmarked at ~6,000 RPS.
+### `Ve - Personal assistant`
+A desktop assistant that executes what you ask, not just answers it. Type or speak a request and it opens the app, finds the show, runs the search — instantly..
 
 `TypeScript` `Fastify` `Redis` `Prometheus`
 
